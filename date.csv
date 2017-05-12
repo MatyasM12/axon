@@ -1,0 +1,15 @@
+xx123232;2017-04-20;asdasfas;asdhasd
+KX66141;2016-09-25;CJ84ADC;comentariu invalid type 1
+kx 146572 ;1999-01-122;  cj 02 cjc  ;litere mici, spații, invalid date
+DR101546;2016-11-14;B102BBB;comentariu valid
+MM872521;2003-05-23;FS2DS34; număr străin valid
+MM872522;2003-05-23;; tot număr străin valid
+;linie er   onată;;invalid
+KX752913;1992-09-05;sdasda;numar strain, valid
+KX829132;1993-04-12;B02 ABC;valid, depasit+alt judet
+DT231321;2017-04-21;CJ123SFS;valid, depasit+altjudet
+DT231321;2017-03-30;CJ122SQS;nu e depasit+alt judet
+DT231321;2017-03-30;CJ122SGS;nu e depasit+alt judet
+DT231321;2017-03-30;CJ122SFS;nu e depasit+alt judet
+;
+KX231321;2017-03-20;CJ122ashSFS;numar strain
